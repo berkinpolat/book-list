@@ -1,4 +1,3 @@
- Book List
 **A book list project made with both ES5 and ES6 features in vanilla JavaScript.**
 User can add a book by entering its attributes and delete an existing book.
 
